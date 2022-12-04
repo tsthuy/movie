@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../CT188/do_an"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code_back"
+	}
+}
